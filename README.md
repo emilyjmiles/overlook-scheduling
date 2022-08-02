@@ -1,6 +1,7 @@
 # Overlook Scheduling
 
-## Project Spec
+### [Project Spec](https://frontend.turing.edu/projects/overlook.html)
+### [View Deployed Site Here]()
 
 ## Abstract
 
@@ -14,24 +15,24 @@
 - CSS (SASS?)
 - Fetch API
 
-## Third party packages:
+### Third party packages:
 - Github Project Board Project Management
 - Micromodal js (?)
 
 ## Install & Set Up
 
 ### Backend Set Up
-Go to this repository.
-Follow Set Up instructions.
+1. Go to this [repository](https://github.com/turingschool-examples/overlook-api).
+2. Follow Set Up instructions.
 
 ### Frontend Set Up
-Clone down this repository.
-git clone git@github.com:emilyjmiles/overlook-scheduling.git
-In your terminal, run:
-npm install
-npm start
-Enter the following url in your browser: http://localhost:8080/
-Explore the website.
+1. Clone down this repository.
+``` git clone git@github.com:emilyjmiles/overlook-scheduling.git```
+2. In your terminal, run:
+```npm install
+npm start```
+3. Enter the following url in your browser: http://localhost:8080/
+4. Explore the website.
 
 ## Wins
 
