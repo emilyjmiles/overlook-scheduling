@@ -15,7 +15,7 @@
 - HTML
 - CSS (SASS?)
 - Fetch API
-- **Third party packages:
+- **Third party packages:**
     - Github Project Board Project Management
     - Micromodal js (?)
 
