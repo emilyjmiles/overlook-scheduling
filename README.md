@@ -1,7 +1,6 @@
 # Overlook Scheduling
-
-### [Project Spec](https://frontend.turing.edu/projects/overlook.html)
-### [View Deployed Site Here]()
+[Project Spec](https://frontend.turing.edu/projects/overlook.html)
+[View Deployed Site Here]()
 
 ## Abstract
 
@@ -14,10 +13,9 @@
 - HTML
 - CSS (SASS?)
 - Fetch API
-
-### Third party packages:
-- Github Project Board Project Management
-- Micromodal js (?)
+- #### Third party packages:
+    - Github Project Board Project Management
+    - Micromodal js (?)
 
 ## Install & Set Up
 
