@@ -27,14 +27,14 @@
 
 ### Frontend Set Up
 1. Clone down this repository.
-``` 
-git clone git@github.com:emilyjmiles/overlook-scheduling.git
-```
+    ``` 
+    git clone git@github.com:emilyjmiles/overlook-scheduling.git
+    ```
 2. In your terminal, run:
-```
-npm install
-npm start
-```
+    ```
+    npm install
+    npm start
+    ```
 3. Enter the following url in your browser: http://localhost:8080/
 4. Explore the website.
 
