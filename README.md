@@ -1,12 +1,12 @@
 # Overlook Scheduling
 
-### Project Spec
+## Project Spec
 
-### Abstract
+## Abstract
 
-### Application Demo
+## Application Demo
 
-### Technologies
+## Technologies
 JavaScript
 Mocha
 Chai
@@ -14,17 +14,17 @@ HTML
 CSS (SASS?)
 Fetch API
 
-### Third party packages:
+## Third party packages:
 Github Project Board Project Management
 Micromodal js (?)
 
-### Install & Set Up
+## Install & Set Up
 
-##### Backend Set Up
+### Backend Set Up
 Go to this repository.
 Follow Set Up instructions.
 
-##### Frontend Set Up
+### Frontend Set Up
 Clone down this repository.
 git clone git@github.com:nzambonivergara/overlook.git
 In your terminal, run:
@@ -33,8 +33,8 @@ npm start
 Enter the following url in your browser: http://localhost:8080/
 Explore the website.
 
-### Wins
+## Wins
 
-### Challenges
+## Challenges
 
-### Future Features
+## Future Features
