@@ -1,11 +1,16 @@
-// This is the JavaScript entry file - your code begins here
-// Do not delete or rename this file ********
-
-// An example of how you tell webpack to use a CSS (SCSS) file
+// style imports
 import './css/styles.css';
+import './images/overlook-logo1.png'; // image example
 
-// An example of how you tell webpack to use an image (also need to link to it in the index.html)
-import './images/turing-logo.png'
+// data imports
+import Hotel from './classes/Hotel.js';
+import Customer from '.classes/Customer.js';
+import Glide from '@glidejs/glide';
+import MicroModal from 'micromodal';
 
+// Query Selectors
+// const/let = document.querySelecytor();
 
-console.log('This is the JavaScript entry file - your code begins here.');
+// Event Listeners
+// .addEventListener('', )
+
